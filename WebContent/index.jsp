@@ -7,5 +7,6 @@
 <title>index.jsp</title>
 </head>
 <body>
+	<h2>깃 수업</h2>
 </body>
 </html>
